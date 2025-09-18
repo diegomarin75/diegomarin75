@@ -1,4 +1,4 @@
-# <a href="https://github.com/diegomarin75-projects"><img src="https://avatars.githubusercontent.com/u/225530995" alt="PersonalProjects" width="40"  style="margin-right:4px; position:relative; top:6px;"/></a>Personal Projects
+# <a href="https://github.com/diegomarin75-projects"><img src="https://avatars.githubusercontent.com/u/225530995" alt="PersonalProjects" width="40" style="margin-right:4px; position:relative; top:6px;"/></a> Personal Projects
 
 [DungeonSpells](https://github.com/diegomarin75-projects) - New programming language compiler and runtime environment
 
@@ -10,7 +10,7 @@
 
 &nbsp;
 
-# <a href="https://github.com/diegomarin75-work"><img src="https://avatars.githubusercontent.com/u/225531284" alt="WorkTools" width="40"  style="margin-right:4px; position:relative; top:6px;"/></a>Work Tools
+# <a href="https://github.com/diegomarin75-work"><img src="https://avatars.githubusercontent.com/u/225531284" alt="WorkTools" width="40"  style="margin-right:4px; position:relative; top:6px;"/></a> Work Tools
 
 [DatabricksSquemaCompare](https://github.com/diegomarin75-work/DatabricksSquemaCompare) - Compares tables, views and user defined function definitions between databricks schemas in hive metastore and/or code repository DDL definitions
 
