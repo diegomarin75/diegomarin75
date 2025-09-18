@@ -1,16 +1,17 @@
-## Hi there 👋
+# <img src="https://avatars.githubusercontent.com/u/225530995" alt="PersonalProjects" width="40"  style="margin-right:4px; position:relative; top:6px;"/> Personal Projects
 
-<!--
-**diegomarin75/diegomarin75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[DungeonSpells](https://github.com/diegomarin75-projects) - New programming language compiler and runtime environment
 
-Here are some ideas to get you started:
+[EditFx9860G](https://github.com/diegomarin75-projects/EditFx9860G) - Text editor for casio FX-9860G calculator series
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[VoyagerMission](https://github.com/diegomarin75-projects/VoyagerMission) - Spaceflight simulator on the solar system
+
+[DarkCastle](https://github.com/diegomarin75-projects/DarkCastle) - Dungeon crawler game with isometric perspective
+
+&nbsp;
+
+# <img src="https://avatars.githubusercontent.com/u/225531284" alt="WorkTools" width="40" style="margin-right:4px; position:relative; top:6px;"/> Work Tools
+
+[DatabricksSquemaCompare](https://github.com/diegomarin75-work/DatabricksSquemaCompare) - Compares tables, views and user defined function definitions between databricks schemas in hive metastore and/or code repository DDL definitions
+
+[SecureFileCrypt](https://github.com/diegomarin75-work/SecureFileCrypt) - Python PyPI library for encrypting and decrypting files using AES-256-GCM with password-based key derivation (PBKDF2-HMAC-SHA256).
