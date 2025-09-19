@@ -14,4 +14,6 @@
 
 [DatabricksSquemaCompare](https://github.com/diegomarin75-work/DatabricksSquemaCompare) - Compares tables, views and user defined function definitions between databricks schemas in hive metastore and/or code repository DDL definitions
 
+[PowerBIReportDownload](https://github.com/diegomarin75-work/PowerBIReportDownload) - Download PowerBI reports from several workspaces and compare them graphically using PDF report printouts
+
 [SecureFileCrypt](https://github.com/diegomarin75-work/SecureFileCrypt) - Python PyPI library for encrypting and decrypting files using AES-256-GCM with password-based key derivation (PBKDF2-HMAC-SHA256).
