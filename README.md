@@ -12,6 +12,8 @@
 
 # <a href="https://github.com/orgs/diegomarin75-work/repositories"><img src="https://avatars.githubusercontent.com/u/225531284" alt="WorkTools" width="40"  style="margin-right:4px; position:relative; top:6px;"/></a> Work Tools
 
+[PrintingTools](https://github.com/diegomarin75-work/PrintingTools) - Tools for text printing on the screen, messages, formatting, tables, etc.
+
 [DatabricksSquemaCompare](https://github.com/diegomarin75-work/DatabricksSquemaCompare) - Compares tables, views and user defined function definitions between databricks schemas in hive metastore and/or code repository DDL definitions
 
 [PowerBIReportDownload](https://github.com/diegomarin75-work/PowerBIReportDownload) - Download PowerBI reports from several workspaces and compare them graphically using PDF report printouts
