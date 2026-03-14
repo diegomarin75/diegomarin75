@@ -10,6 +10,8 @@
 
 [SecureFileCrypt](https://github.com/diegomarin75-work/SecureFileCrypt) - Python PyPI library for encrypting and decrypting files using AES-256-GCM with password-based key derivation (PBKDF2-HMAC-SHA256)
 
+[SnowflakeDevToolkit](https://github.com/diegomarin75-work/SnowflakeDevToolkit) - Command-line toolkit for managing Snowflake development workflows.
+
 [SSISJobMonitor](https://github.com/diegomarin75-work/SSISJobMonitor) - Tool for monitor SQL Server SSIS jobs from the command line
 
 &nbsp;
