@@ -1,6 +1,6 @@
 # <a href="https://github.com/orgs/diegomarin75-work/repositories"><img src="https://avatars.githubusercontent.com/u/225531284" alt="WorkTools" width="40"  style="margin-right:4px; position:relative; top:6px;"/></a> Work Tools
 
-[PrintingTools](https://github.com/diegomarin75-work/PrintingTools) - Tools for text printing on the screen, messages, formatting, tables, etc.
+[PythonLibs](https://github.com/diegomarin75-work/PythonLibs) - A collection of Python utility libraries for console output formatting, Snowflake database management, and common helper functions.
 
 [DatabricksJobMonitor](https://github.com/diegomarin75-work/DatabricksJobMonitor) - Monitor databricks jobs from the command line
 
